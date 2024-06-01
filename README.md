@@ -1,3 +1,7 @@
+
+![Screenshot_2024-06-01-21-55-27-559_com passwordgenerator](https://github.com/26081yogesh/Learning_RN_Password_Generator/assets/108536566/b705f8cb-6a80-4dac-9398-a95ce6692b12)
+![Screenshot_2024-06-01-21-55-45-993_com passwordgenerator](https://github.com/26081yogesh/Learning_RN_Password_Generator/assets/108536566/dac31ba0-958b-4877-9a8f-f2873ce4e173)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
